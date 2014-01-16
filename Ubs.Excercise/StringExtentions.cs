@@ -36,7 +36,7 @@ namespace Ubs.Excercise
         }
 
         /// <summary>
-        /// 
+        /// Join strings in the string collection
         /// </summary>
         /// <param name="stringCollection"></param>
         /// <param name="appender"></param>
@@ -54,7 +54,7 @@ namespace Ubs.Excercise
         }
 
         /// <summary>
-        /// Calculate word stats for a given sentence using non extention method
+        /// This could be made public to provide stats counter collection, so easy to manage. Calculate word stats for a given sentence using non extention method. 
         /// </summary>
         /// <param name="sentence"></param>
         /// <returns></returns>

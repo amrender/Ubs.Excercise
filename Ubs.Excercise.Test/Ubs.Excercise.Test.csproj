@@ -43,7 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Given_a_process_runner.cs" />
-    <Compile Include="When_string_extention_method_is_used - Copy.cs" />
+    <Compile Include="When_string_extention_method_is_used.cs" />
     <Compile Include="When_program_is_run.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
